@@ -1,0 +1,2 @@
+-- snmp-mock-server 실행 명령어
+snmpsim-command-responder --data-dir=/home/oke/git/make-snmprec/ --agent-udpv4-endpoint=0.0.0.0:1161
