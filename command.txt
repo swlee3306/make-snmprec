@@ -1,2 +1,3 @@
--- snmp-mock-server 실행 명령어
+-- snmp-mock-server 실행 명령어 
+-- sudo 환경에서는 실행 불가
 snmpsim-command-responder --data-dir=/home/oke/git/make-snmprec/ --agent-udpv4-endpoint=0.0.0.0:1161
